@@ -1,6 +1,10 @@
-# 💫 About Me:
-Electrical & Computer Engineering student at Temple University<br>IT Support Technician at Temple University’s Fox School of Business<br>Currently working on circuit design, hardware testing, and microcontroller projects<br>Learning more about power electronics, MOSFET behavior, and data-driven analysis<br>Ask me about soldering, troubleshooting hardware, Micro:bit projects, or fixing cars
+# 💫 About Me
 
+- 🎓 Electrical & Computer Engineering student at Temple University  
+- 💼 IT Support Technician at Temple University’s Fox School of Business  
+- 🔧 Working on circuit design, hardware testing, and microcontroller projects  
+- 🌱 Learning power electronics, MOSFET behavior, and data-driven analysis  
+- 💬 Ask me about soldering, hardware troubleshooting, Micro:bit builds, or fixing cars  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shahreare-Joy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahr.joy@temple.edu) 
